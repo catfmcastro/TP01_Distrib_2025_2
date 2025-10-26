@@ -1,0 +1,7 @@
+# requirements.txt
+
+# Biblioteca principal para comunicação gRPC em Python
+grpcio
+
+# Ferramentas para compilar arquivos .proto para Python
+grpcio-tools
